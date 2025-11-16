@@ -1,6 +1,4 @@
-# cloud
-
-# cloud-task3
+# Cloud Task
 
 ## Screenshots
 
